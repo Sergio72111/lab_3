@@ -1,0 +1,9 @@
+C:/Users/user/lab_3/build/CMakeFiles/MyExecutable.dir
+C:/Users/user/lab_3/build/CMakeFiles/package.dir
+C:/Users/user/lab_3/build/CMakeFiles/package_source.dir
+C:/Users/user/lab_3/build/CMakeFiles/edit_cache.dir
+C:/Users/user/lab_3/build/CMakeFiles/rebuild_cache.dir
+C:/Users/user/lab_3/build/CMakeFiles/list_install_components.dir
+C:/Users/user/lab_3/build/CMakeFiles/install.dir
+C:/Users/user/lab_3/build/CMakeFiles/install/local.dir
+C:/Users/user/lab_3/build/CMakeFiles/install/strip.dir
