@@ -1,5 +1,3 @@
 # ninja log v5
-16	1067	7510448551837502	CMakeFiles/MyExecutable.dir/main.cpp.obj	bead3000bc915ea7
-1076	1253	7510448553645271	MyExecutable.exe	3f5dc7eacfcf635b
-24	350	7513234834106841	CMakeFiles/MyExecutable.dir/main.cpp.obj	bead3000bc915ea7
-350	629	7513234836845422	MyExecutable.exe	3f5dc7eacfcf635b
+2	221	7515696322127230	CMakeFiles/MyExecutable.dir/main.cpp.obj	bead3000bc915ea7
+231	306	7515696322944036	MyExecutable.exe	3f5dc7eacfcf635b
